@@ -1,6 +1,6 @@
-[Español]
+- [Español]: 
 ¡Hola! este es mi primer proyecto serio en cuanto a minecraft y "programación" se trata, mi idea es la de crear un jump map dentro de minecraft utilizando 0 mods (aparte de npcs y uno de puentes lasers).
-[English]
+- [English]: 
 Hello! this is my first serious project regarding minecraft and “programming”, my idea is to create a jump map inside minecraft using 0 mods (apart from npcs and one of laser bridges).
 
 Credits:
