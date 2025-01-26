@@ -1,0 +1,4 @@
+# Texto de inicio
+tellraw @a[distance=..3] ["¡Logro desbloqueado! ",{"text":"[","color":"dark_purple"},{"bold":true,"color":"#126B18","text":"Z"},{"bold":true,"color":"#136818","text":"o"},{"bold":true,"color":"#146519","text":"m"},{"bold":true,"color":"#156219","text":"b"},{"bold":true,"color":"#155F1A","text":"i"},{"bold":true,"color":"#165C1A","text":"e "},{"bold":true,"color":"#17591B","text":"S"},{"bold":true,"color":"#18571B","text":"m"},{"bold":true,"color":"#19541C","text":"a"},{"bold":true,"color":"#1A511C","text":"s"},{"bold":true,"color":"#1A4E1D","text":"h"},{"bold":true,"color":"#1B4B1D","text":"e"},{"bold":true,"color":"#1D451E","text":"r"},{"text":"]","color":"dark_purple"}]
+# Audio
+playsound minecraft:entity.zombie.death hostile @a[distance=..3] ~ ~ ~ 1 0.80
