@@ -7,4 +7,4 @@ Credits:
 
 - Main Developer: [Walfenix](https://www.youtube.com/@Walfenix)
 - Main Inspo: [Jump Academy team](https://jumpacademy.tf/members) y [Jump Academy](https://jumpacademy.tf/)
-- 
+- Main texturepack used: [Evees Teamfortress Craft v.0.1](https://modrinth.com/resourcepack/evees-teamfortress-craft)
