@@ -1,5 +1,4 @@
-- [Español]: 
-¡Hola! este es mi primer proyecto serio en cuanto a minecraft y "programación" se trata, mi idea es la de crear un jump map dentro de minecraft utilizando 0 mods (aparte de npcs y uno que otro cosmetico).
+- ¡Hola! este es mi primer proyecto serio en cuanto a minecraft y "programación" se trata, mi idea es la de crear un jump map dentro de minecraft utilizando 0 mods (aparte de npcs y uno que otro cosmetico).
 
 Credits:
 - Main Developer: [Walfenix](https://www.youtube.com/@Walfenix)
