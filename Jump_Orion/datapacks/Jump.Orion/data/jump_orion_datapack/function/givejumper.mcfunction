@@ -1,4 +1,0 @@
-#Give Rocket Jumper
-item replace entity @p[limit=1] weapon.mainhand with wind_charge[custom_name='{"color":"#FFD700","italic":false,"text":"The Rocket Jumper"}',item_name='"Rocket Launcher"',lore=['{"color":"dark_gray","italic":false,"text":"Level 2 Rocket Launcher"}','{"color":"#99CCFF","italic":false,"text":"+200% max primary ammo on wearer"}','{"color":"#99CCFF","italic":false,"text":"No self inflicted blast damage taken"}','{"color":"red","italic":false,"text":"-99% damage penalty"}','{"color":"red","italic":false,"text":"No random critical hits"}','{"color":"white","italic":false,"text":"A special rocket launcher for learning"}','{"color":"white","italic":false,"text":"rocket jump tricks and patterns."}']] 64
-#Sound Effect
-playsound item.armor.equip_iron master @p[limit=1] ~ ~ ~ 1 1
