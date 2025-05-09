@@ -1,0 +1,11 @@
+
+Warning: Undefined array key "value" in /usr/home/GamerTools/domains/gamertools.net/public_html/library/nbt/nbtReadWrite.php on line 386
+
+Fatal error: Uncaught Exception: No valid array given for writeIntArray() in /usr/home/GamerTools/domains/gamertools.net/public_html/library/nbt/nbtReadWrite.php:336
+Stack trace:
+#0 /usr/home/GamerTools/domains/gamertools.net/public_html/library/nbt/nbtReadWrite.php(386): NbtWriter->writeList(NULL)
+#1 /usr/home/GamerTools/domains/gamertools.net/public_html/library/nbt/nbtReadWrite.php(389): NbtWriter->writeObject(Array)
+#2 /usr/home/GamerTools/domains/gamertools.net/public_html/library/nbt/nbtReadWrite.php(389): NbtWriter->writeObject(Array)
+#3 /usr/home/GamerTools/domains/gamertools.net/public_html/public/applications/nbt_converter/nbt_save.php(10): NbtWriter->writeObject(Array)
+#4 {main}
+  thrown in /usr/home/GamerTools/domains/gamertools.net/public_html/library/nbt/nbtReadWrite.php on line 336

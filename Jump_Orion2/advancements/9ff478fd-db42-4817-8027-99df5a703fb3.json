@@ -1,0 +1,45 @@
+{
+  "jump_orion:logro_inicio": {
+    "criteria": {
+      "logro_inicio_0": "2025-05-06 12:10:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-06 12:10:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/who_needs_rockets": {
+    "criteria": {
+      "who_needs_rockets": "2025-05-06 12:22:12 -0400"
+    },
+    "done": true
+  },
+  "jump_orion:logro_nivel1": {
+    "criteria": {
+      "logro_nivel1_0": "2025-05-06 12:24:42 -0400"
+    },
+    "done": true
+  },
+  "jump_orion:logro_escondido_2": {
+    "criteria": {
+      "logro_escondido_1_0": "2025-05-06 12:50:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-05-06 12:51:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-05-06 12:56:06 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

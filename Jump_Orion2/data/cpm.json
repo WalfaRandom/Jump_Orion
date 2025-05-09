@@ -1,0 +1,159 @@
+{
+  "__COMMENT1": "To apply this configuration to all newly generated worlds",
+  "__COMMENT2": "please place this configuration file into your config directory",
+  "__COMMENT3": "with the following name: cpm-server-default.json",
+  "player_scaling": {
+    "9ff478fd-db42-4817-8027-99df5a703fb3": {
+      "scale": 1.0,
+      "eyeHeight": 1.0,
+      "hitboxW": 1.0,
+      "hitboxH": 1.0,
+      "thirdPerson": 1.0,
+      "viewBonning": 1.0,
+      "motion": 1.0,
+      "stepHeight": 1.0,
+      "flight": 1.0,
+      "fdmg": 1.0,
+      "reach": 1.0,
+      "msp": 1.0,
+      "asp": 1.0,
+      "akb": 1.0,
+      "attack": 1.0,
+      "defense": 1.0,
+      "health": 1.0,
+      "mob_vis": 1.0,
+      "width": 1.0,
+      "height": 1.0,
+      "jump_height": 1.0,
+      "proj_dmg": 1.0,
+      "exp_dmg": 1.0,
+      "kbr": 1.0,
+      "safe_fall": 1.0
+    },
+    "9231cba8-955a-4590-bf13-8dd08220d06f": {
+      "scale": 1.0,
+      "eyeHeight": 1.0,
+      "hitboxW": 1.0,
+      "hitboxH": 1.0,
+      "thirdPerson": 1.0,
+      "viewBonning": 1.0,
+      "motion": 1.0,
+      "stepHeight": 1.0,
+      "flight": 1.0,
+      "fdmg": 1.0,
+      "reach": 1.0,
+      "msp": 1.0,
+      "asp": 1.0,
+      "akb": 1.0,
+      "attack": 1.0,
+      "defense": 1.0,
+      "health": 1.0,
+      "mob_vis": 1.0,
+      "width": 1.0,
+      "height": 1.0,
+      "jump_height": 1.0,
+      "proj_dmg": 1.0,
+      "exp_dmg": 1.0,
+      "kbr": 1.0,
+      "safe_fall": 1.0
+    },
+    "98ebe676-6fb0-4d42-99a2-3be6bf732afb": {
+      "flight": 1.0,
+      "mob_vis": 1.0,
+      "safe_fall": 1.0,
+      "motion": 1.0,
+      "reach": 1.0,
+      "scale": 1.0,
+      "health": 1.0,
+      "jump_height": 1.0,
+      "msp": 1.0,
+      "defense": 1.0,
+      "attack": 1.0,
+      "fdmg": 1.0,
+      "akb": 1.0,
+      "kbr": 1.0,
+      "stepHeight": 1.0,
+      "asp": 1.0
+    },
+    "6bfc67c3-0f54-3e69-884d-20001c984419": {}
+  },
+  "player_scaling_settings": {},
+  "scaling_settings": {
+    "mining_speed": {
+      "enabled": true
+    },
+    "motion": {
+      "enabled": true
+    },
+    "mob_visibility": {
+      "enabled": true
+    },
+    "flight_speed": {
+      "enabled": true
+    },
+    "knockback_resist": {
+      "enabled": true
+    },
+    "reach": {
+      "enabled": true
+    },
+    "health": {
+      "enabled": true
+    },
+    "jump_height": {
+      "enabled": true
+    },
+    "attack_speed": {
+      "enabled": true
+    },
+    "safe_fall_distance": {
+      "enabled": true
+    },
+    "defense": {
+      "enabled": true
+    },
+    "attack_knockback": {
+      "enabled": true
+    },
+    "step_height": {
+      "enabled": true
+    },
+    "attack_dmg": {
+      "enabled": true
+    },
+    "fall_damage": {
+      "enabled": true
+    },
+    "entity": {
+      "enabled": true
+    },
+    "eye_height": {
+      "enabled": true
+    },
+    "hitbox_width": {
+      "enabled": true
+    },
+    "hitbox_height": {
+      "enabled": true
+    },
+    "third_person": {
+      "enabled": true
+    },
+    "view_bobbing": {
+      "enabled": true
+    },
+    "width": {
+      "enabled": true
+    },
+    "height": {
+      "enabled": true
+    },
+    "projectile_dmg": {
+      "enabled": true
+    },
+    "explosion_dmg": {
+      "enabled": true
+    }
+  },
+  "skins": {}
+}

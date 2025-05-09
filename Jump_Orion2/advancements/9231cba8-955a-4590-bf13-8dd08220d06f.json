@@ -1,0 +1,33 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-03-11 17:10:32 -0300"
+    },
+    "done": true
+  },
+  "jump_orion:logro_inicio": {
+    "criteria": {
+      "logro_inicio_0": "2025-03-11 17:10:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-03-11 17:20:36 -0300"
+    },
+    "done": true
+  },
+  "jump_orion:logro_nivel1": {
+    "criteria": {
+      "logro_nivel1_0": "2025-03-11 17:32:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/who_needs_rockets": {
+    "criteria": {
+      "who_needs_rockets": "2025-03-11 17:11:10 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

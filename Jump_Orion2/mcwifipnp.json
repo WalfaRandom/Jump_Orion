@@ -1,0 +1,14 @@
+{
+  "port": 61839,
+  "allow-host-cheat": true,
+  "max-players": 8,
+  "gamemode": "survival",
+  "motd": "LAN World",
+  "allow-everyone-cheat": true,
+  "enforce-whitelist": false,
+  "enable-upnp": true,
+  "online-mode": false,
+  "enable-uuid-fixer": true,
+  "pvp": true,
+  "get-public-ip": true
+}

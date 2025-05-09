@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "components": {
+        "minecraft:profile": {
+          "name": "MARKETGARDENER"
+        }
+      },
+      "count": 1,
+      "id": "minecraft:player_head"
+    },
+    "title": "Primera Prueba",
+    "description": "Repasando lo básico",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "logro_nivel1_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "function": "jump_orion:logro_nivel2"
+  },
+  "parent": "jump_orion:logro_nivel1"
+}

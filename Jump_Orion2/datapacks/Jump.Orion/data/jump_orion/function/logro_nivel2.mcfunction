@@ -1,0 +1,4 @@
+# Sonido
+execute at @s run playsound minecraft:item.goat_horn.sound.0 master @a ~ ~ ~ 0.45 1.2
+# Texto de inicio
+tellraw @a[distance=..3] ["¡Logro desbloqueado! ",{"color":"dark_purple","text":"["},{"color":"#FFB812","text":"P"},{"color":"#FFBD12","text":"r"},{"color":"#FFC212","text":"i"},{"color":"#FFC712","text":"m"},{"color":"#FFCB13","text":"e"},{"color":"#FFD013","text":"r"},{"color":"#FFD513","text":"a "},{"color":"#FFDA13","text":"P"},{"color":"#FFDF13","text":"r"},{"color":"#FFE413","text":"u"},{"color":"#FFE814","text":"e"},{"color":"#FFED14","text":"b"},{"color":"#FFF714","text":"a"},{"color":"dark_purple","text":"]"}]
