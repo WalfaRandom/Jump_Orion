@@ -1,5 +1,3 @@
-[GitHub](https://github.com/WalfaRandom/Jump_Orion)
-
 ~~(Este es un projecto hispano, intentaré más adelante hacer una versión inglesa)~~
 - ¡Hola! este es mi primer proyecto serio en cuanto a minecraft y "programación", mi idea es la de crear un jump map dentro de minecraft utilizando 0 mods (aparte de npcs y uno que otro cosmetico).
 
@@ -10,7 +8,6 @@ Credits:
 - Main Developer: [Walfenix](https://www.youtube.com/@Walfenix)
 - Main Inspo: [Jump Academy team](https://jumpacademy.tf/members), [Jump Academy](https://jumpacademy.tf/) and [Portal 1]([https://store.steampowered.com/app/400/Portal/](https://store.steampowered.com/app/400/Portal/))
 - Recommended texturepack: [Evees Teamfortress Craft v.0.1](https://modrinth.com/resourcepack/evees-teamfortress-craft)
-
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A113L3HN)
